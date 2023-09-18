@@ -1,5 +1,9 @@
 body{
-    background: #fffdfd;
+    background: #cccccc;
+}
+
+#banner{
+    width: 100%;
 }
 
 h1{
@@ -8,7 +12,7 @@ h1{
 
 P{
     text-aling: center;
-    background:#ffffff;
+    background:#000000;
 }
 
 em strong{
