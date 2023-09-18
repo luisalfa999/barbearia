@@ -1,5 +1,5 @@
 body{
-    background: #cccccc;
+    background: #b8b8b5;
 }
 
 #banner{
@@ -16,7 +16,7 @@ P{
 }
 
 em strong{
-    color: red;
+    color: #ff0000;
 }
 
 #missao{
