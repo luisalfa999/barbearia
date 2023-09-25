@@ -11,9 +11,7 @@
     padding: 30px;
 }
 
-h1{
-    text-align: center;
-}
+
 
 P{
     text-aling: center;
@@ -43,6 +41,9 @@ ul{
     margin-right: 15%;
 }
 
+.título-centralizado{
+    text-aling:center;
+}
 #missao{
     font-size: 20px;
  }
